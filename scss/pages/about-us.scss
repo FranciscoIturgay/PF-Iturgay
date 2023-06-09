@@ -1,0 +1,22 @@
+.image-background {
+	margin: 0;
+	padding: 0;
+	background-image: url("../images/Julia-Zuccardi-background-2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.julia-exist {
+	font-size: 35;
+	font-weight: 100;
+	text-align: center;
+	color: $color_3;
+}
+.julia {
+	font-size: 25;
+	font-weight: 200;
+	text-align: center;
+	color: $color_1;
+}
+main{
+    height: 85vh;
+}
